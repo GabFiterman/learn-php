@@ -1,0 +1,13 @@
+{
+    "name": "gabfiterman/learn-php",
+    "description": "Projeto de estudos com php.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fiterman",
+            "email": "gfiterman96@gmail.com"
+        }
+    ],
+    "require": {}
+}
